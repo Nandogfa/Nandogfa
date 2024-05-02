@@ -4,7 +4,7 @@
 
 🤔 Explorando novas tecnologias e buscando alcançar meus sonhos,"A lua e o destino podem estar cheias ou minguantes".
 
-🎓 Estudando Analise e desenvolvimento de software (ADS). 
+🎓 Estudando Analise e desenvolvimento de sistemas (ADS). 
 
 🕹️ Gosto de jogar, assistir filmes, series e animes no meu tempo livre.
 
