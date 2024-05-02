@@ -6,7 +6,7 @@
 
 🎓 Estudando Analise e desenvolvimento de software (ADS). 
 
-🕹️ Gosto de jogar, assistir filmes, series e ainems no meu tempo livre.
+🕹️ Gosto de jogar, assistir filmes, series e animes no meu tempo livre.
 
 🌱 Buscando sempre  aprender mais e mais.
 
