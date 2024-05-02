@@ -1,5 +1,4 @@
-<div aling="center"> 
- <img src="https://github.com/Nandogfa/Nandogfa/assets/168585257/384c1eae-8816-4253-bbf5-364e68c8efb8" height="500" width="700"/>
+<div aling="center"> <img src="https://github.com/Nandogfa/Nandogfa/assets/168585257/384c1eae-8816-4253-bbf5-364e68c8efb8" height="500" width="700"/>
 </div>
 
 🤔 Explorando novas tecnologias e buscando alcançar meus sonhos,"A lua e o destino podem estar cheias ou minguantes".
